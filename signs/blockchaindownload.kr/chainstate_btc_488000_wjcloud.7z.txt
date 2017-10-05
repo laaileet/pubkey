@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Torrent info hash: 5B6FEA611A5435629655F352C425761A3B856576
+Torrent magnet link:
+magnet:?xt=urn:btih:5B6FEA611A5435629655F352C425761A3B856576&dn=chainstate_btc_488000_wjcloud.7z&tr=udp%3a%2f%2ftracker.blockchaindownload.kr%3a2710%2fannounce&tr=http%3a%2f%2ftracker.blockchaindownload.kr%3a2710%2fannounce&ws=http%3a%2f%2fshnano1.ipdisk.co.kr%3a80%2fpublist%2fVOL1%2fDownloads%2fchainstate_btc_488000_wjcloud.7z&ws=http%3a%2f%2fchaindownload1.s3.amazonaws.com%2fchainstate_btc_488000_wjcloud.7z&ws=http%3a%2f%2fchaindownload2.s3.amazonaws.com%2fchainstate_btc_488000_wjcloud.7z
+Coin: Bitcoin(BTC)
+Block height: 488000
+Filename: chainstate_btc_488000_wjcloud.7z
+Byte size: 21,108 byte
+MD5: B0502FB09843F806FE001A1C5A9C50FA
+SHA1: 974282C48AAF5E5B2CEC541872936A03AE427936
+SHA256: 0E96A493EA6EC0384387819102E795F8D59B83E142923CAFAE75712CED4A9B59
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEUAbwrlUOd74oEmRx2AuYODde5XAFAlnWAgsACgkQ2AuYODde
+5XD2fAf/XACLSgXrKTvcRGzS7nRrjd9FcbHvZRZ3bWKh+P8Oke8hI12/ti2C3Bdq
+gRMidh+iR8E7bMvEQG+XYjjjWLhIaYkS3H4ObQEUHaQlJAwfKb5j+ErHbFiwVOC8
+D/KZ48wjlQIBfPTh2d4r/M7mJgcDXf3aNBycwe9BV3nAJ/bdP/BjN3x0ekU8yrwH
+958LnCIaIydm6DRuHV8QUAih+NxAhqiOfj9s1y3JiI/OZ9pyGnZIzzn+Ii9s+ZP5
+No0SQzQoQm/jlmLJMYmvKhqjNpyYwMleX6TVn5UuroWn5jMzPmyUyIPsOLllmC0l
+fKJsIQKMVU1YO59iEhlHcwSrRTyMAg==
+=vkcu
+-----END PGP SIGNATURE-----
+
+

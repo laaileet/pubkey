@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Torrent info hash: 5CDF2F0ABF97AC4D391D81408664F004F63D8CBF
+Torrent magnet link:
+magnet:?xt=urn:btih:5CDF2F0ABF97AC4D391D81408664F004F63D8CBF&dn=chaindata_eth_4330000_wjcloud.7z&tr=udp%3a%2f%2ftracker.blockchaindownload.kr%3a2710%2fannounce&tr=http%3a%2f%2ftracker.blockchaindownload.kr%3a2710%2fannounce&ws=http%3a%2f%2fshnano1.ipdisk.co.kr%3a80%2fpublist%2fVOL1%2fDownloads%2fchaindata_eth_4330000_wjcloud.7z&ws=http%3a%2f%2fchaindownload1.s3.amazonaws.com%2fchaindata_eth_4330000_wjcloud.7z&ws=http%3a%2f%2fchaindownload2.s3.amazonaws.com%2fchaindata_eth_4330000_wjcloud.7z
+Coin: Ethereum(ETH)
+Block height: 4330000
+Filename: chaindata_eth_4330000_wjcloud.7z
+Byte size: 666,811 byte
+MD5: 6EC51CB0F6D14E90F0DE2F7C1B22173F
+SHA1: 0CA5CC6E2D5BC0EC78A6849791797C90B4B1DDF9
+SHA256: 1BF62691D7ABFDE5C21C8F1BF55164C810109BF7EC66AACE50FBECBF4527C1A3
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEUAbwrlUOd74oEmRx2AuYODde5XAFAlnWAr4ACgkQ2AuYODde
+5XDYVggAjsbZqzJLI5Ppj9tY/qeP8VOHa8JsZBdfNHPilyIbbxzkapM7b9ygcJwP
+/z/0qJeMIAWG3HRbVpZZtXF6Ky68KjoJJKOE1rPzJczQhSFTcb0q+Ei+EdUhPJEN
+wyi5cgj7Y1nWCHS1Y8ofzsH+IIywVjMBz1wlACxMhmIyGu2CJkCGX2MDR0/kqsa2
+47W+Yfyp5lESCVg8v8XAmk+WrPIB2r6lN1OB1Kt7a0zLNpPuf9k27VTRZn8J1D5t
+WVjtOJqu30SFAI31miNpVEZxJ+TpTYhM/HtB85PpSUdAs5SwdSDy2+NkvQpFNVs9
+hAIZpiUl9mHTaUpBB0PkYFnikVgpiw==
+=V8cI
+-----END PGP SIGNATURE-----
